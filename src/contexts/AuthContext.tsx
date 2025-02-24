@@ -10,8 +10,8 @@ const AuthContext = createContext<AuthContextType | null>(null);
 
 const AUTHORIZED_USERS = [
   'mariama.sall@wave.com',
-  'georgesmbatou.wave.com',
-  'check.coulibaly@wave.com'
+  'georgesmbatou.dieme@wave.com',
+  'yao.yoboue@wave.com'
 ];
 
 const ADMIN_PASSWORD = 'Wavewave@2025';
